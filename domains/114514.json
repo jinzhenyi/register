@@ -1,8 +1,9 @@
 {
-  "owner": {
-    "username": "jinzhenyi"
-  },
-  "records": {
-    "CNAME": "jinzhenyi.github.io"
-  }
+    "owner": {
+        "username": "jinzhenyi",
+        "email": "[enyi1221@qq.com]"
+    },
+    "records": {
+        "CNAME": "jinzhenyi.github.io"
+    }
 }
